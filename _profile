@@ -1,0 +1,22 @@
+#------------------------------------------------------------
+#     ALIAS...!!!
+#------------------------------------------------------------
+
+alias  G="cd /d/...TO ADAPT.../"
+
+alias ls="\ls --color=auto"
+alias rm="\rm -i"
+alias mv="\mv -i"
+alias cp="\cp -i"
+alias cd..="\cd .."
+
+alias c="clear"
+alias p="pwd"
+alias l="ls"
+alias la="ls -a"
+alias ll="ls -lh"
+alias cl="c;l"
+alias e="rm -f *~ *#"
+
+alias gs="git st -s"
+alias gl="git lg --pretty=oneline"

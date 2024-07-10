@@ -1,0 +1,25 @@
+[user]
+	name = romain.loutier
+	email = romain.loutier@inetum.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = vim
+	autocrlf = input
+[merge]
+	tool = vimdiff
+[alias]
+	st = status
+	di = diff
+	lg = log --abbrev-commit
+	sh = show
+	lst = lg -1 HEAD
+	co = checkout
+	br = branch
+	cm = commit
+	lol = lg --graph --decorate --pretty=oneline
+	lola = lg --graph --decorate --pretty=oneline --all
+[advice]
+	detachedHead = false
