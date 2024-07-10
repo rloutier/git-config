@@ -19,4 +19,5 @@ alias cl="c;l"
 alias e="rm -f *~ *#"
 
 alias gs="git st -s"
-alias gl="git lg --pretty=oneline"
+alias gl="git lol"
+alias gla="git lola"
